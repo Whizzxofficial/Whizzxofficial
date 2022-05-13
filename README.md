@@ -2,7 +2,6 @@
 - 
 - 👀 www.whizzxofficial.io
 
-Contract Addresses
 
 - 🌱 Token
 - 
