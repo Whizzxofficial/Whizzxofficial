@@ -4,8 +4,8 @@
 
 
 - 🌱 Token
-- 🌱 WHIZZX
-- 🌱 WIZ
+- 🌱 Tokan Name  : WHIZZX
+- 🌱 Token Symbol: WIZ
 - 
 - 💞️ WhizzXExchange
 -  
