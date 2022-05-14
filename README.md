@@ -6,13 +6,15 @@
 - 🌱 Token
 - 🌱 Tokan Name  : WHIZZX
 - 🌱 Token Symbol: WIZ
-- 
+- 🌱 Contract Addresses:Coming Soon
+
+
 - 💞️ WhizzXExchange
 -  
-- 📫 Twitter:   https://twitter.com/whizzxio?t=iLYX9cDX952DGlt1ZbFgvg&s=03
-- 📫 Instagram: https://www.instagram.com/whizzxofficial/
-- 📫 Telegram:  https://t.me/whizzx
-
+- 📫 Twitter  :https://twitter.com/whizzxio?t=iLYX9cDX952DGlt1ZbFgvg&s=03
+- 📫 Instagram:https://www.instagram.com/whizzxofficial/
+- 📫 Telegram :https://t.me/whizzx
+- 📫 Discord  :https://discord.gg/NSfR8RGF
 
 Contract Addresses
 
