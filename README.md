@@ -1,6 +1,6 @@
 - 👋Whizzxofficial
 - 
-- 👀 www.whizzxofficial.io
+- 👀 www.whizzx.io
 
 
 - 🌱 Token
@@ -10,6 +10,7 @@
 
 
 - 💞️ WhizzXExchange
+- 👀 app.whizzx.io
 -  
 - 📫 Twitter  :https://twitter.com/whizzxio?t=iLYX9cDX952DGlt1ZbFgvg&s=03
 - 📫 Instagram:https://www.instagram.com/whizzxofficial/
