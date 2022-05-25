@@ -12,12 +12,12 @@
 - 💞️ WhizzXExchange
 - 👀 app.whizzx.io
 -  
-- 📫 Twitter  :https://twitter.com/whizzxio?t=iLYX9cDX952DGlt1ZbFgvg&s=03
+- 📫 Twitter    :https://twitter.com/whizzxio?t=iLYX9cDX952DGlt1ZbFgvg&s=03
 - 📫 Instagram:https://www.instagram.com/whizzxofficial/
 - 📫 Telegram :https://t.me/whizzx
 - 📫 Discord  :https://discord.com/invite/BRpnuu6jRv
-- 📫 Reddit   :https://s.reddit.com/c/191muaczgj7eu
-- 📫 Medium   :https://medium.com/@whizzxofficia
+- 📫 Reddit    :https://s.reddit.com/c/191muaczgj7eu
+- 📫 Medium    :https://medium.com/@whizzxofficia
 
 
 
