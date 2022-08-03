@@ -9,7 +9,7 @@
 - 🌱 Contract Addresses:Coming Soon
 
 
--  WhizzX.Exchange
+-  
 - 👀 app.whizzx.io
 -  
 - 📫 Twitter    :https://twitter.com/whizzxio?t=iLYX9cDX952DGlt1ZbFgvg&s=03
