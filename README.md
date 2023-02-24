@@ -14,7 +14,7 @@
 -  
 - 📫 Twitter    :https://twitter.com/whizzxio?t=iLYX9cDX952DGlt1ZbFgvg&s=03
 - 📫 
-- 📫 Telegram :https://t.me/whizzx
+- 📫 Telegram :https://t.me/whizzXOfficial
 - 📫 Discord  :https://discord.com/invite/BRpnuu6jRv
 - 📫 Reddit    :https://s.reddit.com/c/191muaczgj7eu
 - 📫 Medium    :https://medium.com/@whizzxofficia
@@ -25,6 +25,11 @@
 
 ![1500x500](https://user-images.githubusercontent.com/105502655/168313075-b2e66ccd-a52b-4a1d-8211-27177aa9856e.jpg)
 
+
+
+WORLD’S LEADING SOCIAL MEDIA 
+         &
+HYBRID CRYPTO EXCHANGE
 
 
 Whizzx Exchange is a next-generation hybrid Cryptocurrency Exchange, High Yield Staking Platform,
