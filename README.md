@@ -6,7 +6,7 @@
 - 🌱 Token
 - 🌱 Tokan Name  : WHIZZX
 - 🌱 Token Symbol: WIZ
-- 🌱 Contract Addresses:Coming Soon
+- 🌱 Contract Addresses:(https://etherscan.io/address/0xdf6b0c231ce5bdfda3df6282b29254afa41406e2#code)
 
 
 -  
